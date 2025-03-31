@@ -9,7 +9,7 @@ This script automates the process of solving a dynamically generated math questi
 - Google Chrome installed
 
 ## Note
-The script was generated using the Aqua IDE from jetbrains which contained all the necessary dependencies. The script needs to have the dependencies installed either globally or in the virtual environment.
+The project was generated using the Aqua IDE from jetbrains which contained all the necessary dependencies. The script needs to have the dependencies installed either globally or in the virtual environment.
 
 
 ## Script Breakdown
